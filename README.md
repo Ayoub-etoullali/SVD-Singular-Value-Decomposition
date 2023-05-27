@@ -41,4 +41,7 @@ In conclusion, the SVD algorithm is a powerful technique for dimensionality redu
 
 <br><br>
 
-<kbd>Enjoy Code</kbd> 👨‍💻
+## The project team 👨‍💻
+<kbd>Ayoub ETOULLALI</kbd> 
+<kbd>Hasnae AIT TAARABT</kbd> 
+<kbd>Houda CHAHIL</kbd> 
