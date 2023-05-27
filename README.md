@@ -32,11 +32,11 @@ SVD has applications beyond image compression. It can be utilized in various dom
 ## Video tutoriel
 <div align="center">
        <p> 
-         https://www.youtube.com/watch?v=emUZuGDkemk
+         https://www.youtube.com/watch?v=emUZuGDkemk <br>
        <sup>  <strong>Video -</strong> Singular Value Decomposition</sup>
        </p>
 </div>
--->
+
 <br>
 
 ## Conclusion
