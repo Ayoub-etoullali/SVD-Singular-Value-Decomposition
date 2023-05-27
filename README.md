@@ -39,8 +39,6 @@ In conclusion, the SVD algorithm is a powerful technique for dimensionality redu
   - https://www.geeksforgeeks.org/singular-value-decomposition-svd/ <br>
   - https://www.askpython.com/python/examples/singular-value-decomposition <br>
 
-<br><br>
-
 ## The project team 👨‍💻
 <kbd>Ayoub ETOULLALI</kbd> 
 <kbd>Hasnae AIT TAARABT</kbd> 
