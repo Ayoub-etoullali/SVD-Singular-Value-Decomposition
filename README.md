@@ -31,7 +31,11 @@ SVD has applications beyond image compression. It can be utilized in various dom
 ## Video tutoriel
 <div align="center">
        <p>
-        https://www.youtube.com/watch?v=emUZuGDkemk <br>
+         <a href=" https://www.youtube.com/watch?v=emUZuGDkemk">
+<!--            <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"> -->
+           ![IMG_20230527_195014](https://github.com/Ayoub-etoullali/SVD-Singular-Value-Decomposition/assets/92756846/000aa16e-7314-40c9-9c90-80562ad3a90f)
+         </a>
+        <br>
        <sup>  <strong>Video -</strong> Singular Value Decomposition</sup>
        </p>
 </div>
