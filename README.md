@@ -18,12 +18,12 @@ To use the SVD algorithm and experiment with image compression, follow these ste
 4. Run the code to see the SVD in action and visualize the reconstructed images at different ranks.
 
 # Implementation
-<a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/main/TP1%20-%20Codez%20votre%20propre%20calcultrice">
-  (1) Codez votre propre calcultrice </a> <br>
-<a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/main/TP2%20-%20Splash%20screen%2C%20Navigation%20entre%20Ecrans%2C%20Internationalisation">
-  (2) Splash screen & Navigation entre Écrans & Internationalisation </a> <br>
- <a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/main/TP3%20-%20Cr%C3%A9ation%20et%20stockage%20d'une%20liste%20de%20contact%20dans%20une%20base%20de%20donn%C3%A9es%20distante">
-  (3) Création et stockage d'une liste de contact dans une base de données distante </a> <br>
+<a href="https://github.com/Ayoub-etoullali/SVD-Singular-Value-Decomposition/blob/main/Implementation%20of%20SVD%20in%20Python%20from%20scratch.ipynb">
+  (1) Implementation of SVD in Python from scratch </a> <br>
+<a href="https://github.com/Ayoub-etoullali/SVD-Singular-Value-Decomposition/blob/main/Implementation%20of%20SVD%20in%20Python%20using%20Numpy.ipynb">
+  (2) Implementation of SVD in Python using Numpy </a> <br>
+ <a href="https://github.com/Ayoub-etoullali/SVD-Singular-Value-Decomposition/blob/main/Application%20of%20SVD.ipynb">
+  (3) Application of SVD </a> <br>
 
 ## Further Exploration
 SVD has applications beyond image compression. It can be utilized in various domains, including database analysis and video compression. To deepen your understanding, we encourage you to explore additional resources on SVD and practice implementing the algorithm in different scenarios.
