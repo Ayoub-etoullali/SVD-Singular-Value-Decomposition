@@ -20,6 +20,16 @@ To use the SVD algorithm and experiment with image compression, follow these ste
 ## Further Exploration
 SVD has applications beyond image compression. It can be utilized in various domains, including database analysis and video compression. To deepen your understanding, we encourage you to explore additional resources on SVD and practice implementing the algorithm in different scenarios.
 
+## Video tutoriel
+
+<div align="center">
+       <p>
+       <sup>  <strong>Video -</strong> Singular Value Decomposition</sup>
+       </p>
+</div>
+
+<br>
+
 ## Conclusion
 In conclusion, the SVD algorithm is a powerful technique for dimensionality reduction and data compression. This repository provides an implementation of SVD in Python and demonstrates its application in image compression. By adjusting the number of singular values, you can control the level of approximation in the reconstructed images. We invite you to delve deeper into SVD and its versatile applications. Happy coding!
 
