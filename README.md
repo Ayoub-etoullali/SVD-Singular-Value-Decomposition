@@ -29,7 +29,7 @@ To use the SVD algorithm and experiment with image compression, follow these ste
 SVD has applications beyond image compression. It can be utilized in various domains, including database analysis and video compression. To deepen your understanding, we encourage you to explore additional resources on SVD and practice implementing the algorithm in different scenarios.
 
 ## Video tutoriel
-[![Watch the video](https://github.com/Ayoub-etoullali/SVD-Singular-Value-Decomposition/assets/92756846/000aa16e-7314-40c9-9c90-80562ad3a90f)](https://www.youtube.com/watch?v=emUZuGDkemk)
+[![Watch the video](https://user-images.githubusercontent.com/92756846/235241470-b3641364-e980-4c21-9505-7c7c96642c1d.png)](https://www.youtube.com/watch?v=emUZuGDkemk)
 <!-- <div align="center"> -->
   <a href="https://www.youtube.com/watch?v=emUZuGDkemk">
    <img src="https://github.com/Ayoub-etoullali/SVD-Singular-Value-Decomposition/assets/92756846/000aa16e-7314-40c9-9c90-80562ad3a90f" alt="HTML tutorial">
