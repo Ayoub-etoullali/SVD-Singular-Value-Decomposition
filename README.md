@@ -17,18 +17,37 @@ To use the SVD algorithm and experiment with image compression, follow these ste
 3. Open the provided Jupyter notebook or Python script.
 4. Run the code to see the SVD in action and visualize the reconstructed images at different ranks.
 
+# Implementation
+<a href="https://github.com/Ayoub-etoullali/SVD-Singular-Value-Decomposition/blob/main/Implementation%20of%20SVD%20in%20Python%20from%20scratch.ipynb">
+  (1) Implementation of SVD in Python from scratch </a> <br>
+<a href="https://github.com/Ayoub-etoullali/SVD-Singular-Value-Decomposition/blob/main/Implementation%20of%20SVD%20in%20Python%20using%20Numpy.ipynb">
+  (2) Implementation of SVD in Python using Numpy </a> <br>
+ <a href="https://github.com/Ayoub-etoullali/SVD-Singular-Value-Decomposition/blob/main/Application%20of%20SVD.ipynb">
+  (3) Application of SVD </a> <br>
+
 ## Further Exploration
 SVD has applications beyond image compression. It can be utilized in various domains, including database analysis and video compression. To deepen your understanding, we encourage you to explore additional resources on SVD and practice implementing the algorithm in different scenarios.
+
+## Video tutoriel
+
+<div align="center">
+       <p>
+       <sup>  <strong>Video -</strong> Singular Value Decomposition</sup>
+       </p>
+</div>
+
+<br>
 
 ## Conclusion
 In conclusion, the SVD algorithm is a powerful technique for dimensionality reduction and data compression. This repository provides an implementation of SVD in Python and demonstrates its application in image compression. By adjusting the number of singular values, you can control the level of approximation in the reconstructed images. We invite you to delve deeper into SVD and its versatile applications. Happy coding!
 
 ## References
-  https://www.accel.ai/anthology/2022/8/17/svd-algorithm-tutorial-in-python
-  https://www.youtube.com/watch?v=5VDuVVPwh3w&t=27s
-  https://www.geeksforgeeks.org/singular-value-decomposition-svd/
-  https://www.askpython.com/python/examples/singular-value-decomposition
+  - https://www.accel.ai/anthology/2022/8/17/svd-algorithm-tutorial-in-python <br>
+  - https://www.youtube.com/watch?v=5VDuVVPwh3w&t=27s <br>
+  - https://www.geeksforgeeks.org/singular-value-decomposition-svd/ <br>
+  - https://www.askpython.com/python/examples/singular-value-decomposition <br>
 
-<br><br>
-
-<kbd>Enjoy Code</kbd> 👨‍💻
+## The project team 👨‍💻
+<kbd>Ayoub ETOULLALI</kbd> 
+<kbd>Hasnae AIT TAARABT</kbd> 
+<kbd>Houda CHAHIL</kbd> 
