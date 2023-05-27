@@ -1,4 +1,5 @@
 # Singular Value Decomposition (SVD)
+https://github.com/Ayoub-etoullali/SVD-Singular-Value-Decomposition/blob/main/Implementation%20of%20SVD%20in%20Python%20using%20Numpy.ipynb
 
 ## Introduction
 The Singular Value Decomposition (SVD) algorithm is a powerful tool for dimensionality reduction and data compression. This repository provides an implementation of the SVD algorithm in Python and demonstrates its application in image compression.
@@ -29,12 +30,9 @@ To use the SVD algorithm and experiment with image compression, follow these ste
 SVD has applications beyond image compression. It can be utilized in various domains, including database analysis and video compression. To deepen your understanding, we encourage you to explore additional resources on SVD and practice implementing the algorithm in different scenarios.
 
 ## Video tutoriel
-[![Watch the video](https://github.com/Ayoub-etoullali/SVD-Singular-Value-Decomposition/assets/92756846/000aa16e-7314-40c9-9c90-80562ad3a90f)](https://www.youtube.com/watch?v=emUZuGDkemk)
-<!-- <div align="center"> -->
-  <a href="https://www.youtube.com/watch?v=emUZuGDkemk">
-   <img src="https://github.com/Ayoub-etoullali/SVD-Singular-Value-Decomposition/assets/92756846/000aa16e-7314-40c9-9c90-80562ad3a90f" alt="HTML tutorial">
-  </a>
-<!--        <p> 
+<div align="center">
+       <p> 
+         https://www.youtube.com/watch?v=emUZuGDkemk
        <sup>  <strong>Video -</strong> Singular Value Decomposition</sup>
        </p>
 </div>
